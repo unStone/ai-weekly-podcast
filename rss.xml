@@ -15,5 +15,16 @@
   <itunes:image href="https://raw.githubusercontent.com/unStone/ai-weekly-podcast/master/cover.png"/>
   <itunes:category text="Technology"><itunes:category text="Podcasting"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
+  <item>
+    <title>AI 深读 Vol.1（2026.10.21-10.28）</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>欢迎收听AI深读。这是一档每周一期的AI领域深度解读节目。本期覆盖2026年10月21日到10月28日这一周。这周AI行业发生了几件可能改变格局的大事，本期节目大约十二分钟，我们讲四件事：Anthropic正式递交IPO招股书，OpenAI在科学突</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-weekly-audio-2026/master/episodes/2026-10-28.mp3" length="2949264" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-weekly-audio-2026/master/episodes/2026-10-28.mp3</guid>
+    <pubDate>Wed, 28 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>08:11</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
